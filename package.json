@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-remotenext",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "Remote REST API connector for Loopback",
   "main": "index.js",
   "keywords": [
@@ -26,7 +26,7 @@
   },
   "homepage": "http://loopback.io",
   "dependencies": {
-    "loopback-datasource-jugglernext": "^2.46.1",
+    "loopback-datasource-jugglernext": "^2.46.2",
     "strong-remotingnext": "^2.28.1"
   },
   "devDependencies": {
@@ -36,7 +36,7 @@
     "grunt-cli": "^0.1.13",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-mocha-test": "^0.11.0",
-    "loopbacknext": "^2.2.0",
+    "loopbacknext": "^2.29.1",
     "mocha": "~1.21.4",
     "strong-task-emitter": "0.0.5"
   },
